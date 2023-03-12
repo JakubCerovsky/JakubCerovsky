@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakubcerovsky&label=Profile%20views&color=0e75b6&style=flat" alt="jakubcerovsky" /> </p>
 
-- 🔭 I’m currently working on **PaddleNation**
+- 🔭 I’m currently working on **PaddleNation**.
 
-- 🌱 I’m currently learning **ReactJS, PHP**
+- 🌱 I’m currently learning **ReactJS, PHP**.
 
-- 💬 Ask me about **C#, .NET, HTML & CSS**
+- 💬 Ask me about **C#, .NET, HTML & CSS**.
 
-- 📫 How to reach me **jacobcerovsky@gmail.com**
+- 📫 How to reach me: **jacobcerovsky@gmail.com**.
 
-- ⚡ Fun fact **A human could swim through a blue whale's veins.**
+- ⚡ Fun fact: **A human could swim through a blue whale's veins.**,
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,4 +27,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jakubcerovsky&show_icons=true&locale=en&layout=compact" alt="jakubcerovsky" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jakubcerovsky&show_icons=true&locale=en" alt="jakubcerovsky" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=jakubcerovsky&show_icons=true&locale=en" alt="jakubcerovsky" /></p>
